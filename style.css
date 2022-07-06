@@ -3,8 +3,8 @@ body {
     margin: 0;
 }
 
-h1 {
-    font-size: 50px;
+#big-word {
+    font-size: 100px;
 }
 
 .link-button {
@@ -26,4 +26,37 @@ h1 {
     color: white;
     text-align: center;
     padding: 40px 10px;
+}
+
+.background-set {
+    text-align: center;
+    padding: 40px 10px;
+}
+
+.fexible-content {
+    display: flex;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+}
+
+#tk-color {
+    border: 5px solid tomato;
+    background-color: rgba(245, 142, 124, 0.397);
+    color: tomato;
+}
+
+h6 {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border-bottom: 2px solid grey;
 }
