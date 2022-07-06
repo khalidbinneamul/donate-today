@@ -60,3 +60,36 @@ h6 {
     padding-left: 5px;
     border-bottom: 2px solid grey;
 }
+
+.width-set {
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+#food-color {
+    background-color: antiquewhite;
+}
+
+#shrlter-color {
+    background-color: aqua;
+}
+
+#education-color {
+    background-color: darkgray;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+#red-color {
+    color: red;
+}
+
+#last-color {
+    color: white;
+}
